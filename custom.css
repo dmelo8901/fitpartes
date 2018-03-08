@@ -906,11 +906,11 @@ footer .box-footer-considerations {
 
 
 ::selection {
-    background: #009933;
+    background: #5caceb;
     color: #fff;
 }
 ::-moz-selection {
-    background: #009933;
+    background: #5caceb;
     color: #fff;
 }
 /* ----------------------------------------------------------- */
